@@ -12,7 +12,9 @@ git commands local
 git init
 git status
 git add * . /filename.ext
-git commit
+git rm --cached filename
+git commit -m "version1.1 or first commit"
+git restore --staged file to unstage
 git log
 git diff
 git clone
