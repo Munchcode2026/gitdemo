@@ -1,0 +1,18 @@
+winget install --id Git.git -e --source winget
+
+git --version
+git config --global --list
+
+git config --global user.name "Munchcode2026"
+git config --global user.email "baipaymanoj@gmail.com"
+
+
+
+git commands local
+git init
+git status
+git add * . /filename.ext
+git commit
+git log
+git diff
+git clone
