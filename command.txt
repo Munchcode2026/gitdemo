@@ -16,5 +16,6 @@ git rm --cached filename
 git commit -m "version1.1 or first commit"
 git restore --staged file to unstage
 git log
+git log --oneline
 git diff
 git clone
