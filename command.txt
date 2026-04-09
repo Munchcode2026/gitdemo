@@ -19,7 +19,7 @@ git log
 git log --oneline
 
 git diff SHA1 SHA2
-git clone <urlof old directory>
+git clone "<urlof old directory>"
 
 git fetch
 git pull
