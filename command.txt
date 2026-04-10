@@ -24,5 +24,10 @@ git clone <urlof old directory>
 git fetch "url of repo"
 git merge FETCH_HEAD
 
+git remote -v
+git remote add url of github
+git push
+
+
 git pull
 git push
